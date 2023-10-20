@@ -11,5 +11,5 @@ git push origin main
 *agora estamos na nova branch
 
 git checkout -b dev
-(troca a branch)
+(troca a branch e o -b CRIA uma nova branch)
 
