@@ -8,3 +8,8 @@ git commit -m "mensagem de commit"
 
 git push origin main
 
+*agora estamos na nova branch
+
+git checkout -b dev
+(troca a branch)
+
